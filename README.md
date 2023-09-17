@@ -24,6 +24,9 @@
 
 ---
 ### Решение 1
+
+[Ссылка на комит](https://github.com/ZetIxzet/dz8-01/commit/48645360c2ffaf7594ae0595530695bca155d011)
+
 ---
 
 ### Задание 2
@@ -39,6 +42,9 @@
 
 ---
 ### Решение 2
+
+[Ссылка](https://github.com/ZetIxzet/dz8-01/commit/79d73b1623366b075df495a6ab4d1cf060f77b48)
+
 ---
 
 ### Задание 3
@@ -62,4 +68,7 @@
 
 ---
 ### Решение 3
+
+[Ссылка](https://github.com/ZetIxzet/dz8-01/network)
+
 ---
